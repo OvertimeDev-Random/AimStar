@@ -1,0 +1,1088 @@
+﻿  Bone.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Bone.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Bone.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Bone.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Bone.cpp')
+  
+  Cheats.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Cheats.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(17,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(18,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(22,14): warning C4101: 'clientState': unreferenced local variable
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(74,35): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(54,35): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(73,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(74,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(79,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(80,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(92,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(100,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(107,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(119,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(120,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(121,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,52): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,43): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(51,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(54,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(62,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(64,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(65,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(66,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Misc.h(51,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(37,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(67,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(68,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(80,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(176,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(197,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(214,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(215,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(217,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(263,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(265,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(266,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(267,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(287,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(289,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(290,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(291,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(392,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(426,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(427,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(469,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Render.hpp(470,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\ESP.h(162,83): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\ESP.h(165,79): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\ESP.h(212,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheats.cpp')
+  
+  Defining YAML_CPP_API for DLL import
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(177,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(177,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(183,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(183,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(189,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(189,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(195,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(195,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(212,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(212,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(222,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(222,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(232,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(232,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(242,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(242,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(269,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(274,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(277,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(281,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(283,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(284,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(285,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(286,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(289,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(290,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(292,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(293,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(295,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(296,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(297,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(298,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(299,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(300,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(301,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(307,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(333,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(336,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(340,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(355,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(358,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(361,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(362,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(370,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(371,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(374,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(375,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(390,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(394,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(405,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(406,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(407,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(408,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(410,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(411,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(412,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(445,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(445,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(507,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(511,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(512,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(557,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(570,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(571,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(572,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(589,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(597,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(598,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(599,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(600,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(602,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(603,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(609,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(611,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(614,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(615,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(617,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(619,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(620,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(624,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(632,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(639,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(713,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(714,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(728,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\GUI.h(202,8): warning C4101: 'TempText': unreferenced local variable
+  (compiling source file 'Cheats.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Cheats.cpp(255,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Cheats.cpp(255,28): warning C4244: 'argument': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Cheats.cpp(264,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Cheats.cpp(264,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Cheats.cpp(264,26): warning C4244: 'argument': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Cheats.cpp(279,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Cheats.cpp(279,27): warning C4244: 'argument': conversion from 'DWORD64' to 'DWORD', possible loss of data
+  Entity.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Entity.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Entity.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Entity.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Entity.cpp')
+  
+  Glow.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Features/Glow.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Features/Glow.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Features/Glow.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Features/Glow.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/Glow.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/Glow.cpp')
+  
+  Misc.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Features/Misc.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(17,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(18,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(22,14): warning C4101: 'clientState': unreferenced local variable
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(74,35): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(54,35): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(73,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(74,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(79,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(80,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(92,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(100,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(107,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(119,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(120,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(121,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,52): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,43): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Misc.h(51,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Features/Misc.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Misc.cpp(305,9): warning C4101: 'Tick': unreferenced local variable
+  Mouse.cpp
+  SkinChanger.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Features/SkinChanger/SkinChanger.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Features/SkinChanger/SkinChanger.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Features/SkinChanger/SkinChanger.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Features/SkinChanger/SkinChanger.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/SkinChanger/SkinChanger.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Features/SkinChanger/SkinChanger.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\SkinChanger\SkinChanger.cpp(46,53): warning C4244: 'argument': conversion from 'DWORD64' to 'int', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\SkinChanger\SkinChanger.cpp(61,56): warning C4244: 'argument': conversion from 'DWORD64' to 'int', possible loss of data
+  StyleChanger.cpp
+  Game.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Game.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Game.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Game.cpp')
+  
+  main.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(17,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(18,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(22,14): warning C4101: 'clientState': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(74,35): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(54,35): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(73,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(74,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(79,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(80,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(92,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(100,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(107,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(119,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(120,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(121,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,52): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,43): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(51,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(54,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(62,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(64,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(65,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Ragebot.hpp(66,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Misc.h(51,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\u53CD' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\u6050' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\u7CBE' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\u82F1' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\uFF1A' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\u5168' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\u7403' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\u653B' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(135,28): warning C4566: character represented by universal-character-name '\u52BF' cannot be represented in the current code page (1252)
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(130,31): warning C4101: 'e': unreferenced local variable
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(217,16):
+  	see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\main.cpp(217,16):
+  		see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'WndProc'
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\xstring(2600,17):
+  	see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\xstring(2756,18):
+  	see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Offsets.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Offsets.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Offsets.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Offsets.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Offsets.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(41,35): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(47,46): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(53,31): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(59,35): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(67,43): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(73,48): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(79,41): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(111,34): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(117,36): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(123,36): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Offsets.cpp(126,20): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  OS-ImGui.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\OS-ImGui\OS-ImGui.cpp(108,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\OS-ImGui\OS-ImGui.cpp(108,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OS-ImGui_Base.cpp
+  Generating Code...
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\BombTimer.h(40,1): warning C4715: 'bmb::getBombSite': not all control paths return a value
+  Compiling...
+  OS-ImGui_External.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'OS-ImGui/OS-ImGui_External.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'OS-ImGui/OS-ImGui_External.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'OS-ImGui/OS-ImGui_External.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'OS-ImGui/OS-ImGui_External.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'OS-ImGui/OS-ImGui_External.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'OS-ImGui/OS-ImGui_External.cpp')
+  
+  Radar.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Radar/Radar.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Radar/Radar.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Radar/Radar.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Radar/Radar.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(8,89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(9,89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(62,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(64,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(65,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(147,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(148,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(167,6): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(176,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(177,105): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(177,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(179,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(180,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(182,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(183,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(185,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Radar\Radar.cpp(186,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Language.cpp
+  TriggerBot.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'TriggerBot.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'TriggerBot.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'TriggerBot.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'TriggerBot.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TriggerBot.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TriggerBot.cpp')
+  
+  ConfigMenu.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+  Defining YAML_CPP_API for DLL import
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(17,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(18,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(22,14): warning C4101: 'clientState': unreferenced local variable
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(74,35): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(54,35): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(73,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(74,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(79,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(80,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(92,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(100,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(107,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(119,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(120,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(121,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,52): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,43): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'Utils/ConfigMenu.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ConfigMenu.cpp(47,96): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConfigSaver.cpp
+  Defining YAML_CPP_API for DLL import
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(154,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\MenuConfig.hpp(203,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(17,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(18,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(22,14): warning C4101: 'clientState': unreferenced local variable
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\RCS.h(74,35): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(54,35): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(73,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(74,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(79,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(80,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(92,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(100,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(107,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(119,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(120,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(121,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,52): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Features\Aimbot\Legitbot.hpp(184,43): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'Utils/ConfigSaver.cpp')
+  
+  GlobalVars.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Utils/GlobalVars.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Utils/GlobalVars.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Utils/GlobalVars.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Utils/GlobalVars.cpp')
+  
+  MemorySearch.cpp
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+  (compiling source file 'Utils/MemorySearch.cpp')
+  C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(7,1):
+  see previous definition of '_is_invalid'
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: '*=': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'Utils/MemorySearch.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Utils/MemorySearch.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: 'type cast': conversion from 'ULONG' to 'DWORD *' of greater size
+  (compiling source file 'Utils/MemorySearch.cpp')
+  
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\MemorySearch.cpp(23,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\MemorySearch.cpp(38,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\MemorySearch.cpp(40,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\MemorySearch.cpp(44,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\MemorySearch.cpp(49,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\CS2_External\Utils\MemorySearch.cpp(91,101): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  Generating Code...
+yaml-cpp.lib(ostream_wrapper.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(ostream_wrapper.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(emitter.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(emitter.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(exceptions.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(exceptions.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(memory.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(memory.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(node_data.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(node_data.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(convert.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(convert.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(parse.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(parse.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(emitterstate.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(emitterstate.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(emitterutils.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(emitterutils.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(nodebuilder.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(nodebuilder.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(parser.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(parser.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(regex_yaml.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(regex_yaml.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(binary.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(binary.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(null.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(null.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(directives.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(directives.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(scanner.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(scanner.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(singledocparser.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(singledocparser.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(stream.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(stream.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(simplekey.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(simplekey.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(scantoken.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(scantoken.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(tag.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(tag.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(depthguard.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(depthguard.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(scanscalar.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(scanscalar.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(scantag.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(scantag.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+yaml-cpp.lib(exp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Bone.obj
+yaml-cpp.lib(exp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Bone.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\rando\OneDrive\Documents\GitHub\AimStar\x64\Debug\AimStar.exe : fatal error LNK1319: 50 mismatches detected

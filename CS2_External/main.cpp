@@ -11,32 +11,9 @@
 #include <stdio.h>
 
 using namespace std;
-/*
-Contributors:
-	Shinyaluvs,
-	Nx0Ri,
-	Skarbor,
-	PedroGoncalves,
-	KeysIsCool,
-	Kenny,
-	Cr1ppl3,
-	Tairitsu,
-	sh1pi,
-	toepas,
-	djsacred,
-	tokinaa,
-	faster_bbc,
-	vsantos1,
-	5mmod,
-	gScream,
-	Hazetick,
-	styx,
-	user1232,
-	TaKaStuKi.sen
-*/
 
 namespace fs = filesystem;
-bool otp = false;
+bool otp = true;
 string fileName;
 
 void Exit()
